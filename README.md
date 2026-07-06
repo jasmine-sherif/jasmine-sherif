@@ -43,16 +43,6 @@ Improved model recall from 70.5% to 73.7% through iterative feature and threshol
 
 ---
 
----
-
-### 🐍 My Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/jasmine-sherif/jasmine-sherif/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
-</p>
-
----
-
 ### 📫 Let's Connect
 
 <p>
