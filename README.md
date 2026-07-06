@@ -17,8 +17,8 @@ Python MapReduce job to parse, count, and rank IP addresses from Apache log file
 
 ### 🧩 Backend
 
-**NestJS + Prisma + Neon Backend**
-Resolved deep compatibility issues across ESM/CommonJS conflicts, custom Prisma client output paths, and environment variable load order.
+- **NestJS + Prisma + Neon Backend**
+  - Built a scalable REST API using NestJS, Prisma ORM, and Neon PostgreSQL with a clean, modular architecture.
 
 ### 🤖 Machine Learning
 
