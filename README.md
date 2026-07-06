@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Jasmine 👋</h1>
 
-I'm a Computer Engineering and AI student who values growth — going deep into the concepts underneath things instead of just skimming the surface, and trying to grow a little every day. Here are some projects I'm proud of:
+I care about understanding things properly — the concept underneath the tool, not just the syntax to make it run. That mindset shapes how I work: I'd rather spend an extra hour understanding *why* a pipeline breaks than patch around it, and I try to leave every project a little more solid than I found it. Here are some projects I'm proud of:
 
 ---
 
@@ -39,6 +39,16 @@ Improved model recall from 70.5% to 73.7% through iterative feature and threshol
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+</p>
+
+---
+
+---
+
+### 🐍 My Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/jasmine-sherif/jasmine-sherif/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
 </p>
 
 ---
