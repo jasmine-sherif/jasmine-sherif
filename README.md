@@ -1,16 +1,61 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Jasmine</h1>
+<h3 align="center">Aspiring Data Engineer | Pipelines, Warehousing & Cloud Data Systems</h3>
 
-<!--
-**jasmine-sherif/jasmine-sherif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Data%20Engineering-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Interests-AI%20%2F%20ML-orange?style=flat-square" />
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Internships-success?style=flat-square" />
+</p>
+---
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=black" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+</p>
+
+---
+
+### 🚀 Featured Projects
+
+#### 📦 Data Engineering
+
+**Real-Time Renewable Energy Data Platform**
+Hybrid cloud/on-prem pipeline — co-built the Azure ingestion layer and independently owned the on-premise SSIS side.
+
+**Gravity Books Data Warehouse**
+Designed a snowflake-schema warehouse implementing SCD Type 2 for historical tracking.
+
+**Hadoop MapReduce Log Analyzer**
+Python MapReduce job to parse, count, and rank IP addresses from Apache log files on a local Hadoop 2.7.3 cluster.
+
+#### 🧩 Backend
+
+**NestJS + Prisma + Neon Backend**
+Resolved deep compatibility issues across ESM/CommonJS conflicts, custom Prisma client output paths, and environment variable load order.
+
+#### 🤖 Machine Learning
+
+**Fraud Detection Model**
+Improved model recall from 70.5% to 73.7% through iterative feature and threshold tuning.
+
+---
+
+
+### 📫 Let's Connect
+
+<p>
+  <a href="www.linkedin.com/in/jasmine-sherif-"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="jasminesherif372gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+</p>
+
+<p align="center"><i>Open to Data Engineering internships and collaborative projects — feel free to reach out!</i></p>
